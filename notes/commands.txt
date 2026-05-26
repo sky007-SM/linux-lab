@@ -1,0 +1,6 @@
+Commands List
+
+- cd
+- mkdir
+- touch
+- nano

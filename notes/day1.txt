@@ -1,0 +1,28 @@
+Day 1 Topics
+
+- mkdir
+  Used to create a folder/directory in the current location.
+  
+  Example:
+	mkdir test folder  
+
+- touch
+  Used to create a file in the current location.
+
+  Commands List
+
+  Example:
+	touch test.txt
+
+- cd
+  Used to change the current directory.
+
+  Example:
+	cd trial-folder/test
+
+- nano
+  Used to edit the contents of files from the terminal.
+
+  Example:
+	nano test.txt
+
