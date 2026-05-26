@@ -4,3 +4,15 @@ Commands List
 - mkdir
 - touch
 - nano
+- chmod +x
+- grep
+- lscpu
+- free -h
+- df -h
+- echo -e "\e[32mColoured Output\e[0m"
+- uname -o
+- uname -r
+- #!/bin/bash (shebang)
+- hostname
+- uptime -p
+- date

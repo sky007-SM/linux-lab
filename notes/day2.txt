@@ -1,0 +1,40 @@
+Day 2 Topics
+
+- Bash scripting basics
+
+- chmod +x
+  command to make scripts executable by adding permission
+
+- echo
+  command to display text on terminal
+
+- echo -e "\e[33mColoured Output\e[0m"
+  command to display coloured output via escape sequence characters and Ansi colour codes
+
+- hostname
+  command to display the hostname in terminal
+
+- date
+  command to show the current date and time
+
+- uptime -p
+  command to show the uptime in pretty formatting 
+ 
+- uname
+  command that shows system information
+
+- free -h
+  command that is used to display RAM info
+
+- df -h for disk usage
+  command that is used to display Disk usage info
+
+- shebang (#!/bin/bash)
+  command that is used to tell linux to run file using bash
+
+- lscpu
+  command used to show CPU Information
+
+- grep
+  command used to search for lines of text
+
